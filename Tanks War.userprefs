@@ -1,11 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Managers\GameManager.cs">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\The Dice\Assets\Rotator.cs">
     <Files>
-      <File FileName="Assets\Scripts\Managers\GameManager.cs" Line="142" Column="10" />
-      <File FileName="Assets\Scripts\Managers\TankManager.cs" Line="13" Column="2" />
-      <File FileName="Assets\Scripts\Tank\TankShooting.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\Tank\TankMovement.cs" Line="6" Column="43" />
+      <File FileName="..\The Dice\Assets\Rotator.cs" Line="15" Column="73" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
